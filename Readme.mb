@@ -93,8 +93,8 @@ stat4=0
 server=connectt.vps-kinghost.net
 port=1883
 qos=1
-username=admin
-password=##Cd9500$$
+username=#######
+password=#######
 topicpub=senfio/monitore/#/gota/cadastro
 topicsub=senfio/monitore/#/gota/numserie
 
