@@ -19,11 +19,12 @@ Passo 2:
     sudo python setup.py install
 
 Passo 3:
-  O programa deve ser instalado dentro de uma pasta em direório qualquer, exemplo "/home/pi/Desktop/JIGA" dentro 
-  dela copiar todos asquivos do git.
-  Para executar o programa basta usar o comando $python3 main.py
+  O programa deve ser instalado dentro da pasta em qualquer direório, exemplo "/home/pi/Desktop/JIGA" dentro 
+  dela copiar todos arquivos do git.
+  Para executar o programa basta usar o comando '$python3 main.py'
 
-Arquivo config.ini Nele contempla configurações diversas:
+
+Arquivo config.ini nele contempla as configurações diversas:
 ---------------------- Arquivo *.ini -------------------------------
 [DEFAULT]
 version=1.0
