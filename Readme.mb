@@ -1,2 +1,19 @@
 
 Jiga Explore (Sistema desenvolvindo em Python3 + QT5-Interface gráfica) - 31/0823
+O sistema rodará em linux(raspbian) na Raspberry PI 3  
+
+Preparar ambiente, passos:
+Passo 1:
+  Instalar OS Desktop Raspbian: https://www.raspberrypi.com/documentation/computers/getting-started.html
+
+Passo 2: 
+  sudo apt install python3-pip    
+  sudo pip3 install paho-mqtt
+  sudo pip3 install pyserial
+  sudo apt install -y i2c-tools
+  sudo apt install -y git
+  pip3 install pyqt5-tools
+  git clone https://github.com/adafruit/Adafruit_Python_ADS1x15.git
+    cd Adafruit_Python_ADS1x15
+    sudo python setup.py install
+  
