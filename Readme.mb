@@ -1,8 +1,8 @@
 
-Jiga Explore (Sistema desenvolvindo em Python3 + QT5-Interface gráfica) - 31/0823
+Jiga Explore (Sistema desenvolvindo em Python3 + QT5-Interface gráfica) - 31/08/23
 O sistema rodará em linux(raspbian) na Raspberry PI 3  
 
-Preparar ambiente, passos:
+Preparar ambiente:
 
 Passo 1:
   Instalar OS Desktop Raspbian: https://www.raspberrypi.com/documentation/computers/getting-started.html
